@@ -20,5 +20,5 @@ Para empezar he buscado un tema para empezar a hacer mi pagina web.
 - Polylang: Y este ultimo plugin es para traducir las paginas al idioma que querramos.
 
 ## Polylang
-
+Todas las paginas y posts que he creado las he pasado a ingles para que asi funcionase el Polylang. Pero huvo un percance con este plugin por el hecho que cuando lo activava e intentava utilizar no me funcionaba
   
