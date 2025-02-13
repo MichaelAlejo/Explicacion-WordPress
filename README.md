@@ -18,7 +18,3 @@ Para empezar he buscado un tema para empezar a hacer mi pagina web.
 - OSM: Este plugin sirve para poner mapas para nuestra web como si fuera de un google maps, que este lo utilize para poner donde esta situada mi empresa.
 - TablePress: Este es para crear tablas para nuestra web.
 - Polylang: Y este ultimo plugin es para traducir las paginas al idioma que querramos.
-
-## Polylang
-Todas las paginas y posts que he creado las he pasado a ingles para que asi funcionase el Polylang. Pero huvo un percance con este plugin por el hecho que cuando lo activava e intentava utilizar no me funcionaba
-  
