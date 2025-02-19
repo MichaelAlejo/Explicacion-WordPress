@@ -14,7 +14,7 @@ Para empezar he buscado un tema para empezar a hacer mi pagina web.
 ## Plugins
 <p> Despues añadi unos cuantos plugins para mejorar mi pagina web, que estos son: 
   
-- Editor clasico de WordPress: Como su nombre dice es para tener el editor clasico de WordPress.
+- **Editor clasico de WordPress**: Como su nombre dice es para tener el editor clasico de WordPress.
 - **OSM**: Este plugin sirve para poner mapas para nuestra web como si fuera de un google maps, que este lo utilize para poner donde esta situada mi empresa.
 - **TablePress**: Este es para crear tablas para nuestra web.
 - **Polylang**: Y este ultimo plugin es para traducir las paginas al idioma que querramos.
